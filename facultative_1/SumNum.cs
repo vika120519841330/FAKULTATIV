@@ -7,17 +7,29 @@ namespace facultative_1
         //Требуется посчитать сумму целых чисел, расположенных между числами 1 и N включительно
         static void Main(string[] args)
         {
-            uint N = 0;
-            uint sum = 0;
+            int N = 0;//число м.б. как положительным так и отрицательным
+            int sum = 0;
 
-            Console.WriteLine("Сколько целых положительных чисел Вы хотите просуммировать?");
-            N = UInt32.Parse(Console.ReadLine());
+            Console.WriteLine("Введите целое число(положительное или отрицательное):");
+            N = Int32.Parse(Console.ReadLine());
 
-            for (uint i = 1; i <= N; i++)
+            if (N > 0)
             {
-              sum+=i;
+                for (int i = 1; i <= N; i++)
+                {
+                    sum += i;
+                    Console.Write($"{sum}\t");
+                }
             }
-            Console.WriteLine($"Сумма целых чисел, расположенных между числами 1 и {N} включительно равна:\t {sum}");
+            else
+            {
+                for (int i = N; i <= 1; i++)
+                {
+                    sum += i;
+                    Console.Write($"{sum}\t");
+                }
+            }
+            Console.WriteLine($"\nСумма целых чисел, расположенных между числами 1 и {N} включительно равна:\t {sum}");
         }
     }
 }
