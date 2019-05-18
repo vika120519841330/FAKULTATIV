@@ -1,0 +1,11 @@
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\bin\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.deps.json
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\bin\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.runtimeconfig.json
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\bin\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.runtimeconfig.dev.json
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\bin\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.dll
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\bin\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.pdb
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.csprojAssemblyReference.cache
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.csproj.CoreCompileInputs.cache
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.AssemblyInfoInputs.cache
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.AssemblyInfo.cs
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.dll
+D:\Program files\C_Sharp\C_Sharp\HomeWork\FAKULTATIV\Lesson_3_4_Facultative\Facultative_Lesson_3_4\obj\Debug\netcoreapp2.1\Facultative_Lesson_3_Task_1.pdb
